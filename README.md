@@ -129,6 +129,7 @@ This project is a mini for a road transportation reservation system, where custo
 ### Author
 
 - [Adeleke Joshua](https://github.com/lekejosh)
+- [Pan Addict](https://github.com/Panaddict11)
 
 ### License
 
